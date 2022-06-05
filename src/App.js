@@ -3,7 +3,7 @@ import { connect } from "react-redux";
 import StoreFront from "./components/storefront";
 import Header from "./components/header";
 import Footer from "./components/footer";
-import ProductPage from "./components/ProductPage";
+import ProductPage from "./components/productPage";
 import Checkout from "./components/cart/checkout";
 import Container from "@mui/material/Container";
 import { fetchCategories } from "./store/reduxToolkitStore/actions/categories";

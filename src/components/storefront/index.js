@@ -1,6 +1,6 @@
 import React from "react";
-import Categories from "./categories";
-import ActiveCategory from "./activeCategory";
+import Categories from "./catergories";
+import ActiveCategory from "./activeCateggory";
 import Products from "./products";
 import SimpleCart from "../cart/simpleCart";
 import { Box, Divider } from "@mui/material";
